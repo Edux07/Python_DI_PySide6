@@ -10,6 +10,6 @@ invest("hola")
 
 
 #Usando los metodos propios de la casa
-#cadena  ="Hola mundo"
-#cadena_invertida=cadena[::-1]
-#print(cadena_invertida)
+cadena  ="Hola mundo"
+cadena_invertida=cadena[::-1]
+print(cadena_invertida)
